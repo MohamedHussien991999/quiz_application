@@ -16,7 +16,7 @@ https://github.com/MohamedHussien991999/quiz_application/assets/93053169/0ff3633
 
 1)  Shared Preferences
 2) Timer 
-3)  Bloc
+3)  Bloc(cubit)
 
 
 ## C) Features
